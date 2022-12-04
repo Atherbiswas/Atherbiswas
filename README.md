@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Ather Biswas</h1>
+<h1 align="center">Hi, I'm Md Ather Biswas</h1>
 <h3 align="center">A passionate Entry level frontend developer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atherbiswas&label=Profile%20views&color=0e75b6&style=flat" alt="atherbiswas" /> </p>
