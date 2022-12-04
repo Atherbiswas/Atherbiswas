@@ -31,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atherbiswas&show_icons=true&locale=en" alt="atherbiswas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atherbiswas&" alt="atherbiswas" /></p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
